@@ -26,7 +26,7 @@ SECRET_KEY = '2dc8w=jw3b2rvnvxeijn(e+(+jk!$pqz3xnys#&b*l+9==+5t^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','finderrr.herokuapp.com']
 
 # Application definition
 
